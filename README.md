@@ -22,7 +22,7 @@ Picture this: a multitenant e-commerce solution must be put in place, on a muti-
 * messaging
 * storage, cdn
 
-To name a few of the involved solutions. We're told to pick two different cloud providers (to provide high availability) that will be complemented with an on-premise piece. Our journey begins here, where the options are too many and its difficult to plan and prototype without comprising to subscription trials and abandoning local development for cloud provider specifics.
+To name a few of the involved solutions. We're told to pick two different cloud providers (to provide high availability) that will be complemented with an on-premise piece. Our journey begins here, where the options are too many and its difficult to plan and prototype without heading down to subscription trials and abandoning local development for cloud provider specifics.
 
 **We want to live in a world where, from the comfort of our devbox, we may pick relevant *public API matching services* from different providers, and develop potentially world class solutions by using these API matching implementations to power our ideas.**
 
