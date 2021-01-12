@@ -1,5 +1,5 @@
 # clouders
-develop from *localhost*, even unplugged. Once you have it, deploy for real at scale.
+develop up to multi-cloud solutions from *localhost*, even unplugged. Once you have it, deploy for real at scale.
 
 ## Goals
 
