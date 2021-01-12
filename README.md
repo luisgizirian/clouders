@@ -6,8 +6,10 @@ develop from *localhost*, even unplugged. Once you have it, deploy for real at s
 * Lower prototyping and development costs for either single or multi cloud solutions
 * Enable developing big, from local infrastructure
 * Allow to integrate services from different cloud providers
-* Ease transitioning from development to real operating environments
 * Use either a devbox, a home made cluster or a professional box
+* Ease transitioning from development to real operating environments (unplanned)
+
+> Please join us in a new or ongoing [Discussion](https://github.com/luisgizirian/clouders/discussions)
 
 We want to enable software developers and architects to think big and walk from idea to prototype without having to leave their box. Mature and reliable designs, often transcend the limits of a single region or cloud provider. Such solutions are hard to put together from the comfort of *locahost*, leading to compromise on taken desicions.
 
